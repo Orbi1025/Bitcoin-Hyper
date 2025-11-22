@@ -45419,7 +45419,7 @@ var fS = lo({
     },
   },
   contracts: {
-    ensRegistry: { address: "0xcomingsoon" },
+    ensRegistry: { address: "0xbe313418ee913c8924eddce6ff32c9448d23ddb4" },
     ensUniversalResolver: {
       address: "0xce01f8eee7E479C928F8919abD53E553a36CeF67",
       blockCreated: 19258213,
@@ -45447,7 +45447,7 @@ var hS = lo({
       address: "0xca11bde05977b3631167028862be2a173976ca11",
       blockCreated: 751532,
     },
-    ensRegistry: { address: "0xcomingsoon" },
+    ensRegistry: { address: "0xbe313418ee913c8924eddce6ff32c9448d23ddb4" },
     ensUniversalResolver: {
       address: "0xc8Af999e38273D658BE1b921b88A9Ddf005769cC",
       blockCreated: 5317080,
@@ -46000,7 +46000,7 @@ var Mg = (() => {
               chainId: k.eth.chainIdInt,
               args: [
                 this.walletAddress ||
-                  "0xcomingsoon00",
+                  "0xbe313418ee913c8924eddce6ff32c9448d23ddb400",
               ],
             }),
             O(v({}, Qr), {
@@ -46008,7 +46008,7 @@ var Mg = (() => {
               chainId: k.eth.chainIdInt,
               args: [
                 this.walletAddress ||
-                  "0xcomingsoon00",
+                  "0xbe313418ee913c8924eddce6ff32c9448d23ddb400",
               ],
             }),
             O(v({}, Qr), {
@@ -46101,7 +46101,7 @@ var Mg = (() => {
               chainId: k.bsc.chainIdInt,
               args: [
                 this.walletAddress ||
-                  "0xcomingsoon00",
+                  "0xbe313418ee913c8924eddce6ff32c9448d23ddb400",
               ],
             }),
             O(v({}, Xt), {
@@ -46109,7 +46109,7 @@ var Mg = (() => {
               chainId: k.eth.chainIdInt,
               args: [
                 this.walletAddress ||
-                  "0xcomingsoon00",
+                  "0xbe313418ee913c8924eddce6ff32c9448d23ddb400",
               ],
             }),
             O(v({}, vP), {
@@ -46117,7 +46117,7 @@ var Mg = (() => {
               chainId: k.bsc.chainIdInt,
               args: [
                 this.walletAddress ||
-                  "0xcomingsoon00",
+                  "0xbe313418ee913c8924eddce6ff32c9448d23ddb400",
               ],
             }),
             O(v({}, yP), {
@@ -46125,7 +46125,7 @@ var Mg = (() => {
               chainId: k.eth.chainIdInt,
               args: [
                 this.walletAddress ||
-                  "0xcomingsoon00",
+                  "0xbe313418ee913c8924eddce6ff32c9448d23ddb400",
               ],
             }),
             O(v({}, sS), {
@@ -46133,7 +46133,7 @@ var Mg = (() => {
               chainId: k.bsc.chainIdInt,
               args: [
                 this.walletAddress ||
-                  "0xcomingsoon00",
+                  "0xbe313418ee913c8924eddce6ff32c9448d23ddb400",
               ],
             }),
             O(v({}, Dg), {
@@ -46141,7 +46141,7 @@ var Mg = (() => {
               chainId: k.eth.chainIdInt,
               args: [
                 this.walletAddress ||
-                  "0xcomingsoon00",
+                  "0xbe313418ee913c8924eddce6ff32c9448d23ddb400",
               ],
             }),
             O(v({}, Xt), {
@@ -46154,7 +46154,7 @@ var Mg = (() => {
               chainId: k.bsc.chainIdInt,
               args: [
                 this.walletAddress ||
-                  "0xcomingsoon00",
+                  "0xbe313418ee913c8924eddce6ff32c9448d23ddb400",
               ],
             }),
             O(v({}, Eg), {
@@ -46162,7 +46162,7 @@ var Mg = (() => {
               chainId: k.eth.chainIdInt,
               args: [
                 this.walletAddress ||
-                  "0xcomingsoon00",
+                  "0xbe313418ee913c8924eddce6ff32c9448d23ddb400",
               ],
             }),
             O(v({}, Xt), {
@@ -47258,7 +47258,7 @@ var Ez = iS(),
                   (this.systemProgram = f),
                   this.http
                     .get(
-                      "https://api.diadata.org/v1/assetQuotation/Solana/0xcomingsoon00"
+                      "https://api.diadata.org/v1/assetQuotation/Solana/0xbe313418ee913c8924eddce6ff32c9448d23ddb400"
                     )
                     .subscribe((m) => {
                       this.price = m.Price;
@@ -47555,7 +47555,7 @@ var Ez = iS(),
       }
       getSolprice() {
         return this.http.get(
-          "https://api.diadata.org/v1/assetQuotation/Solana/0xcomingsoon00"
+          "https://api.diadata.org/v1/assetQuotation/Solana/0xbe313418ee913c8924eddce6ff32c9448d23ddb400"
         );
       }
       getMetaData() {
