@@ -18899,7 +18899,7 @@ var Wh = (() => {
                   ],
                 },
               ],
-              sameAs: ["https://t.me/BTCcoinHyper_entry", "https://x.com/BTCcoinHyper"],
+              sameAs: ["https://t.me/BTCcoinHyper_entry", "https://x.com/BTCHyper_meme"],
               address: {
                 "@type": "PostalAddress",
                 streetAddress: "Quijano Chambers, P.O. Box 3159",
@@ -22042,7 +22042,7 @@ var nm = (() => {
       {
         img: "assets/images/svg-icons/social-icons/twitter.svg",
         alt: "x",
-        link: "https://x.com/BTCcoinHyper",
+        link: "https://x.com/BTCHyper_meme",
       },
     ];
     constructor(e, n, a, s, r, l, p, h) {
@@ -22711,7 +22711,7 @@ var am = (() => {
       {
         img: "assets/images/svg-icons/social-icons/twitter.svg",
         alt: "x",
-        link: "https://x.com/BTCcoinHyper",
+        link: "https://x.com/BTCHyper_meme",
       },
     ];
     subscription;
